@@ -2,8 +2,8 @@ import 'dart:async';
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:flutter_pos_printer_platform/discovery.dart';
-import 'package:flutter_pos_printer_platform/flutter_pos_printer_platform.dart';
+import 'package:flutter_pos_printer_platform_plus/discovery.dart';
+import 'package:flutter_pos_printer_platform_plus/flutter_pos_printer_platform.dart';
 
 class UsbPrinterInput extends BasePrinterInput {
   final String? name;

@@ -3,7 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-  flutter_pos_printer_platform
+  flutter_pos_printer_platform_plus
   network_info_plus_windows
 )
 
