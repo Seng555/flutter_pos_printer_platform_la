@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_star_prnt_plus: 
+  flutter_star_prnt: 
     git:
       url: https://github.com/Seng555/flutter_star_prnt.git
       ref: master

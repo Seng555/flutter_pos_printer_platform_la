@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:flutter_star_prnt/flutter_star_prnt.dart';
+import 'package:flutter_star_prnt_plus/flutter_star_prnt.dart';
 
 import 'flutter_pos_printer_platform.dart';
 
